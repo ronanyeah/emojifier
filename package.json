@@ -1,0 +1,25 @@
+{
+  "name": "emojifier",
+  "version": "0.0.1",
+  "description": "text is boring, make it less so",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronanyeah/emojifier.git"
+  },
+  "author": "ronanyeah",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ronanyeah/emojifier/issues"
+  },
+  "homepage": "https://github.com/ronanyeah/emojifier#readme",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
